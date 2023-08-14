@@ -1,4 +1,4 @@
-package Java_projects;
+package Java_exercises;
 
 public class ShoppingCart {
     public static void main(String[] args){

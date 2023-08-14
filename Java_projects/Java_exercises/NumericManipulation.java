@@ -1,3 +1,5 @@
+package Java_exercises;
+
 public class NumericManipulation {
     public static void main(String args[]){
         double price = 3.50;
