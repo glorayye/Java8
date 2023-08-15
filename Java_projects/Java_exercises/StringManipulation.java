@@ -9,7 +9,6 @@ public class StringManipulation {
     String[] itemz = new String[4];
     for (String item: items){    //loops 
       System.out.println("item: " + item );
-  //    itemz.add(item); 
     } 
       message = custName + " wants to purchase " + items.length + " items consisting of " + itemz;
 
