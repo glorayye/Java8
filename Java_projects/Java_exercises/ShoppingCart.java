@@ -11,6 +11,9 @@ public class ShoppingCart {
         // System.out.println(item1.color);
         // System.out.println(item1.setColor(' '));
 
+        Book book1 = new Book("yellow", "jammy", 1624, true );
+        book1.returnBook(true);
+
 
 
     }

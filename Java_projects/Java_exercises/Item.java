@@ -1,7 +1,5 @@
 package Java_exercises;
 
-import javafx.css.Style;
-
 public class Item {
  char color;
 
